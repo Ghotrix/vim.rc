@@ -9,6 +9,7 @@
 " CTRL-T Jump back to the previous manual page.
 "
 :runtime! ftplugin/man.vim
+:runtime! archlinux.vim
 
 set history=50                          "сохранять 50 строк в истории командной строки
 set ruler                               "постоянно показывать позицию курсора
